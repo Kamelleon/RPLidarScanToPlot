@@ -1,2 +1,2 @@
 # RPLidarTeleinwestor
-Projekt laseru LiDAR dla firmy Teleinwestor
+Projekt programu dla laseru LiDAR
