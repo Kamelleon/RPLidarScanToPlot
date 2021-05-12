@@ -5,6 +5,7 @@ Projekt programu dla laseru LiDAR
 - Dokumentacja: http://www.slamtec.com/en/Support#rplidar-a-series
 
 # Instalacja i wymagania
+- Sterownik USB to UART Bridge (powyżej)
 - Python 3.8
 - Biblioteka matplotlib
  ```batch
