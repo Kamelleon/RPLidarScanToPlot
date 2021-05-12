@@ -1,4 +1,4 @@
-# RPLidarTeleinwestor
+# RPLidar_Teleinwestor
 Projekt programu dla laseru LiDAR
 
 - Sterowniki (USB): https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
