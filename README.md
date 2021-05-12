@@ -6,5 +6,10 @@ Projekt programu dla laseru LiDAR
 
 # Instalacja i wymagania
 - Python 3.8
-- pip install matplotlib
-- pip install rplidar
+- Biblioteka matplotlib
+- Biblioteka rplidar
+
+```batch
+pip install rplidar
+pip install matplotlib
+```
