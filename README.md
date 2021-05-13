@@ -5,6 +5,7 @@ Projekt programu dla laseru RPLidar
 - Dokumentacja: http://www.slamtec.com/en/Support#rplidar-a-series
 
 # Instalacja i wymagania
+- RPLidar A1 lub RPLidar A2
 - Sterownik "USB to UART Bridge" (powyżej)
 - Python 3.8
 - Biblioteka matplotlib
